@@ -5,8 +5,8 @@ const initialState = {
     content: [
         {
             title: "Island Beach Bliss",
-            desc1: "Experience the ultimate island beach bliss with our stunning beach. With its crystal clear waters, pristine white sand, and breathtaking views of the ocean, you’ll feel like you’re in paradise. Relax under the sun and let your worries drift away as you soak up the serene atmosphere. Whether you’re looking for adventure or just want to unwind and recharge, our island beach is the perfect destination.",
-            desc2: "Discover the perfect island beach getaway with our stunning beach. With its tranquil atmosphere and stunning natural beauty, it’s the perfect place to escape from the hustle and bustle of everyday life. Whether you’re looking for adventure or just want to relax and unwind, our island beach has something for everyone."
+            desc1: "Experience the ultimate island beach bliss with our stunning beach. With its crystal clear waters, pristine white sand, and breathtaking views of the ocean, you’ll feel like you’re in paradise. Relax under the sun and let your worries drift away as you soak up the serene atmosphere.",
+            desc2: "Discover the perfect island beach getaway with our stunning beach. With its tranquil atmosphere and stunning natural beauty, it’s the perfect place to escape from the hustle and bustle of everyday life."
         },
         {
             title: "Desert Car Safari Adventures",

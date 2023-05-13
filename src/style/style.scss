@@ -196,3 +196,13 @@
         }
     }
 }
+
+@media(max-width: 400px) {
+    .travel {
+        &__content {
+            h1 {
+                font-size: 1.5rem;
+            }
+        }
+    }
+}
